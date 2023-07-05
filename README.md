@@ -4,6 +4,9 @@ Slides will be here [TBA]
 
 [Template for code audit in Google sheets](https://docs.google.com/spreadsheets/d/1Hj2rQ-POTW0QenBYwrDJuPytGjKmuL0usOFeBamYHLs/edit?usp=sharing)
 
+[Flutter mobile app code audit: Article](https://chililabs.io/blog/flutter-mobile-app-code-audit)
+
+
 Useful links:
 
 [Mastering Dart & Flutter DevTools](https://medium.com/@fluttergems/mastering-dart-flutter-devtools-series-introduction-installation-part-1-of-8-4f703a8cfcc8)
