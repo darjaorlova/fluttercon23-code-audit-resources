@@ -1,6 +1,6 @@
 # fluttercon23-code-audit-resources
 
-*The recording of the talk will be here, check in later!*
+[Talk recording](https://www.droidcon.com/2023/08/07/healthy-code-a-guide-to-flutter-app-audit/)
 
 [Slides from the presentation](https://docs.google.com/presentation/d/1CIeR8FLSYTZ-MjEsPd5meIHsls9fZZqi4rgWt452kOI/edit?usp=sharing)
 
